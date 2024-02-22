@@ -2,4 +2,19 @@ html {
   font-family: sans-serif;
 }
 
+div {
+  color: white;
+  text-shadow: 2px 2px 3px black;
+  font-size: 1.5rem; /*18px*/
+  text-align: center;
+  width: 200px;
+  padding: 100px 50px;
+  border-radius: 15px;
+  border: 1px solid rgb(230, 0, 0);
+  background-color: red;
+  background-image: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.30));
+  box-shadow: 3px 3px 5px black, inset 3px 3px 5px rgba(255, 255, 255, 0.75), inset -3px -3px 5px rgba(0, 0, 0, 0.75);
+
+
+}
 /* Your CSS below here */
